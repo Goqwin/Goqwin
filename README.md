@@ -25,6 +25,5 @@
 
 6 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-
 <h2> Projects </h2>
 <p> At this moment, I am working on multiple small projects (Including JS, Python, and potentially Unity.) I have some experience with R and am working to connect both R and SQL languages together for a database project. <p>
