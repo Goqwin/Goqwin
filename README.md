@@ -2,7 +2,7 @@
  
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Goqwin.visitor-badge)
 
- ![GitHub followers](https://img.shields.io/github/followers/Goqwin.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Goqwin?tab=followers)
+ ![GitHub followers](https://img.shields.io/github/followers/Goqwin.svg?style=social&label=Follow&maxAge=2592000)
 
 👋 My Name is Godwin JB Mercado 
 <li> Currently: </li> SD Student at Southern Alberta Institute of Technolity (SAIT)
