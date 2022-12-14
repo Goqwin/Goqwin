@@ -1,12 +1,10 @@
 <h1> <b> Hello World! </h1>
  
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Goqwin.visitor-badge)
-
- ![GitHub followers](https://img.shields.io/github/followers/Goqwin.svg?style=social&label=Follow&maxAge=2592000)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Goqwin.visitor-badge) ![GitHub followers](https://img.shields.io/github/followers/Goqwin.svg?style=social&label=Follow&maxAge=2592000)
 
 👋 My Name is Godwin JB Mercado 
-<li> Currently: </li> SD Student at Southern Alberta Institute of Technolity (SAIT)
-<li> In addition: </li> BSc. Actuarial Science Student in Univeristy of Calgary
+<li> Currently: </li> SD Student at Southern Alberta Institute of Technology (SAIT)
+<li> In addition: </li> BSc. Actuarial Science Student in University of Calgary (UCalgary)
 
 
 <h2> 👨‍🎓 Right now I am learning  </h2>
