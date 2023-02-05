@@ -23,7 +23,7 @@
   <li> Code by Charles Petzold <li>
   <li> Clean Code by Robert Cecil Martin <li>
   <li> Think like a Programmer by V. Anton Spraul <li>
-  <li> The Python Workbook by Ben Stephenson <li>
+  <li> The Python Workbook by Ben Stephenson 
 
 
  <p> Find me on: <p>
