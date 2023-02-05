@@ -18,3 +18,14 @@
 
 <h2> Projects </h2>
 <p> At this moment, I am working on multiple small projects (Including JS, Python, and potentially Unity.) I have some experience with R and am working to connect both R and SQL languages together for a database project. <p>
+ 
+ <h3> :books: Books reading/read <h3>
+  <li> Code by Charles Petzold <li>
+  <li> Clean Code by Robert Cecil Martin <li>
+  <li> Think like a Programmer by V. Anton Spraul <li>
+  <li> The Python Workbook by Ben Stephenson <li>
+
+
+ <p> Find me on: <p>
+  
+ ![](https://dcbadge.vercel.app/api/shield/297559010113093644)
