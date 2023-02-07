@@ -4,16 +4,17 @@
  
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Goqwin.visitor-badge) ![GitHub followers](https://img.shields.io/github/followers/Goqwin.svg?style=social&label=Follow&maxAge=2592000)
 
-👋 My Name is Godwin JB Mercado 
+ My name is... <h2> <b> Godwin JB Mercado 👋 </h2> 
 
-<li> Currently: </li> SD Student at Southern Alberta Institute of Technology (SAIT)
-<li> In addition: </li> BSc. Actuarial Science Student in University of Calgary (UCalgary)
+ <li> Currently:  Software Development Student at Southern Alberta Institute of Technology (SAIT) </li>
+ <li> In addition:  BSc. Actuarial Science Student in University of Calgary (UCalgary) </li>
 
 
 <h2> 👨‍🎓 Right now I am learning  </h2>
  <li> Object Oriented Programming II </li>
  <li> UI/UX Design </li>
- <li> Structures + Database Programming </li>
+ <li> Structures + Data base Programming </li>
+ <li> Software Design Modelling (UML-Cases - Sequences) </li>
 
 <h2> 💻 Skills and Languages </h2>
 
