@@ -1,6 +1,6 @@
 <h1> <b> Hello World! </h1> 
 
-![codingspeeed](https://user-images.githubusercontent.com/115321545/217168401-ecc27e47-1862-4dfe-92df-564996b90d00.gif)
+<img align="right" alt ="GIF" src ="https://user-images.githubusercontent.com/115321545/217168401-ecc27e47-1862-4dfe-92df-564996b90d00.gif" width="400"> 
  
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Goqwin.visitor-badge) ![GitHub followers](https://img.shields.io/github/followers/Goqwin.svg?style=social&label=Follow&maxAge=2592000)
 
@@ -31,3 +31,8 @@
  <p> Find me on: <p>
   
  ![](https://dcbadge.vercel.app/api/shield/297559010113093644)
+
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goqwin&theme=cobalt&show_icons=true)
+ 
+ 
