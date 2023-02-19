@@ -18,21 +18,17 @@
 
 <h2> 💻 Skills and Languages </h2>
 
-1 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 2 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 3 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 4 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 5 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 6 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 7 ![SQL](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white) 8 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  ![SQL](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 <h2> Projects </h2>
 <p> At this moment, I am working on multiple small projects (Including JS, Python, and potentially Unity.) I have some experience with R and am working to connect both R and SQL languages together for a database project. <p>
  
  <h3> :books: Books reading/read <h3>
-  <li> Code by Charles Petzold </li>
-  <li> Clean Code by Robert Cecil Martin </li>
-  <li> Think like a Programmer by V. Anton Spraul </li>
-  <li> The Python Workbook by Ben Stephenson </li>
+  <li> <a href= https://www.amazon.ca/Code-Language-Computer-Hardware-Software/dp/0735611319> Code by Charles Petzold </li>
+  <li> <a href= https://www.amazon.ca/Clean-Code-Handbook-Software-Craftsmanship/dp/B08X9H8RD1/ref=sr_1_1?gclid=Cj0KCQiArsefBhCbARIsAP98hXQVsqf-TaPrD5fboUby60W3ZdPZ4h-KdAwMiN78PibkKAfcRVAztPwaAoxlEALw_wcB&hvadid=221191978077&hvdev=c&hvlocphy=9001337&hvnetw=g&hvqmt=e&hvrand=8344969081106394336&hvtargid=kwd-302037009595&hydadcr=16048_9598503&keywords=the+clean+code&qid=1676846629&sr=8-1 > Clean Code by Robert Cecil Martin </li>
+  <li> <a href=https://www.amazon.ca/Thinking-programmers-innovative-solutions-problems/dp/B00D5PQU38/ref=sr_1_1?gclid=Cj0KCQiArsefBhCbARIsAP98hXT0MUnKKiuduRSKn7hl2fWq5zGI9Lo3fQ7gPE7B4HT9jFrbJn1S7CUaAlVuEALw_wcB&hvadid=267116874447&hvdev=c&hvlocphy=9001337&hvnetw=g&hvqmt=e&hvrand=3499984351303190541&hvtargid=kwd-316985842218&hydadcr=16081_10268155&keywords=thinking+like+a+programmer&qid=1676846663&sr=8-1>  Think like a Programmer by V. Anton Spraul </li>
+  <li> <a href= https://www.amazon.ca/Python-Workbook-Introduction-Exercises-Solutions-ebook/dp/B07TZ7LR1T/ref=sr_1_5?gclid=Cj0KCQiArsefBhCbARIsAP98hXRsE8iLjyx5wghgotkwaX1YBUPlJaoGTB7clw-sWcDlQGz-aZvxD2MaAkOSEALw_wcB&hvadid=208256087246&hvdev=c&hvlocphy=9001337&hvnetw=g&hvqmt=e&hvrand=9591875207720009728&hvtargid=kwd-302066685798&hydadcr=16049_9598507&keywords=python+workbook&qid=1676846683&sr=8-5> The Python Workbook by Ben Stephenson </li>
   <br> 
- <p> Find me on: <p>
-  
- ![](https://dcbadge.vercel.app/api/shield/297559010113093644)
-
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goqwin&theme=cobalt&show_icons=true)
  
