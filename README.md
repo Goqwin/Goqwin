@@ -6,6 +6,7 @@
 
  My name is... <h2> <b> Godwin JB Mercado 👋 </h2> 
 
+
  <li> Currently:  Software Development Student at Southern Alberta Institute of Technology (SAIT) </li>
  <li> In addition:  BSc. Actuarial Science Student in University of Calgary (UCalgary) </li>
 
@@ -20,8 +21,6 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  ![SQL](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-<h2> Projects </h2>
-<p> At this moment, I am working on multiple small projects (Including JS, Python, and potentially Unity.) I have some experience with R and am working to connect both R and SQL languages together for a database project. <p>
  
  <h3> :books: Books reading/read <h3>
   <li> <a href= https://www.amazon.ca/Code-Language-Computer-Hardware-Software/dp/0735611319> Code by Charles Petzold </li>
