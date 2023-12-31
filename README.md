@@ -7,7 +7,7 @@
 
 
 ## My Name is Godwin JB Mercado 
-<ul> I am a Junior Software Developer whomst done alot of exploring within this field. From Data Science to Machine Learning Research, to Game/Mobile Development along with numerous Web devlopments and UI/UX designs for said sites, to now getting experience with a crypto brokerage 
+<ul> I am a Junior Software Developer whomst done alot of exploring within this field. From Data Science to Machine Learning Research, to Game/Mobile Development along with numerous Web developments and UI/UX designs, to now getting experience with a crypto brokerage enforcing my knowledge in around full-stack applications such as ORMs, Algorithmic applications, and more UI-UX development. 
  
 <br> 
 </br> 
