@@ -3,23 +3,22 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Goqwin.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/Goqwin.svg?style=social&label=Follow&maxAge=2592000)
 
-
-
-
-## My name is Godwin JB Mercado 
-<ul> I am a Junior Software Developer whomst done alot of exploring within this field. From Data Science to Machine Learning Research, to Game/Mobile Development along with numerous Web developments and UI/UX designs, to now getting experience with a crypto brokerage enforcing my knowledge in around full-stack applications such as ORMs, Algorithmic applications, and more UI-UX development. 
+<h2>My name is Godwin JB Mercado</h2>
+<ul> 
+<br> 
+</br>
+I am a Junior Software Developer that has explored within this field. From Data Science to Machine Learning Research, to Game/Mobile Development along with numerous Web developments and UI/UX designs, to now getting experience with a crypto brokerage enforcing my knowledge in full-stack applications such as ORMs, Algorithmic applications, and more UI-UX development.
  
 <br> 
 </br> 
 <li> 🎓 Currently studying Software Development at Southern Alberta Institute of Technology (SAIT) </li>
-<li> 🎓 Pursuing a BSc. in Actuarial Science at the University of Calgary (UCalgary) </li>
 </ul> 
 
 
 ### 🌱 Right now as a Developer..
-- Currently Developing a Crypto Coin Tracker & Mock Exchange with a Team of 5.
-- Designing my own Blockchain Simulation
-- Enriching my Indie Game Developer Skills by learning more about sprite animation/art and programming quick side projects.
+- Currently Developed a Crypto Coin Tracker &  in the process of a Mock Exchange with a Team of 5.
+- Designing my own Blockchain Simulation.
+- Enriching my Indie Game Developer Skills by learning more about sprite animation/art and encoding lua scripts for ease-of-use purposes.
 - Working on Stable Diffusion and the intricacies around AI Art/Prompts. 
 
 
