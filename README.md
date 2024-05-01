@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Goqwin.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/Goqwin.svg?style=social&label=Follow&maxAge=2592000)
 
-<h2>My name is Godwin JB Mercado</h2>
+<h2>My name is Godwin </h2>
 <ul> 
 <br> 
 </br>
