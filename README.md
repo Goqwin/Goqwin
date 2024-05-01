@@ -11,7 +11,7 @@ I am a Junior Software Developer that has explored within this field. From Data 
  
 <br> 
 </br> 
-<li> 🎓 Currently studying Software Development at Southern Alberta Institute of Technology (SAIT) </li>
+<li>  Currently working for Canada's Official Crypto Brokerage. (Newton)
 </ul> 
 
 
