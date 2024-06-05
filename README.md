@@ -1,4 +1,4 @@
-# Hello World! 👋 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/115321545/217168401-ecc27e47-1862-4dfe-92df-564996b90d00.gif" width="400">
+# Hello World! 👋 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/115321545/217168401-ecc27e47-1862-4dfe-92df-564996b90d00.gif" width="275">
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Goqwin.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/Goqwin.svg?style=social&label=Follow&maxAge=2592000)
@@ -6,20 +6,14 @@
 <h2>My name is Godwin </h2>
 <ul> 
 <br> 
+"A passionate programmer that has explored concepts ranging from Data Science to Machine Learning Research, to Game/Mobile Development along with numerous Web developments and UI/UX designs."
+</ul>
 </br>
-I am a Junior Software Developer that has explored within this field. From Data Science to Machine Learning Research, to Game/Mobile Development along with numerous Web developments and UI/UX designs, to now getting experience with a crypto brokerage enforcing my knowledge in full-stack applications such as ORMs, Algorithmic applications, and more UI-UX development.
- 
-<br> 
-</br> 
-<li>  Currently working for Canada's Official Crypto Brokerage. (Newton)
-</ul> 
 
 
 ### 🌱 Right now as a Developer..
-- Currently Developed a Crypto Coin Tracker &  in the process of a Mock Exchange with a Team of 5.
-- Designing my own Blockchain Simulation.
-- Enriching my Indie Game Developer Skills by learning more about sprite animation/art and encoding lua scripts for ease-of-use purposes.
-- Working on Stable Diffusion and the intricacies around AI Art/Prompts. 
+-  Developed a Crypto Coin Tracker & Canada's first Crypto Mock Exchange with 5 other skilled individuals.
+-  Currently working for Canada's Official Crypto Brokerage. (Newton)
 
 
 
@@ -43,4 +37,5 @@ I am a Junior Software Developer that has explored within this field. From Data 
 - [Code by Charles Petzold](https://www.amazon.ca/Code-Language-Computer-Hardware-Software/dp/0735611319)
 - [Clean Code by Robert Cecil Martin](https://www.amazon.ca/Clean-Code-Handbook-Software-Craftsmanship/dp/B08X9H8RD1)
 - [Think Like a Programmer by V. Anton Spraul](https://www.amazon.ca/Thinking-programmers-innovative-solutions-problems/dp/B00D5PQU38)
+- [Django for Beginners by William S. Vincent](https://www.amazon.ca/Django-Beginners-Build-websites-Python/dp/1735467243)
 ---
