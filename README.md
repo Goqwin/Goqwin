@@ -13,7 +13,7 @@
 
 ### 🌱 Right now as a Developer..
 -  Developed a Crypto Coin Tracker & Canada's first Crypto Mock Exchange with 5 other skilled individuals.
--  Currently working for Canada's Official Crypto Brokerage. (Newton)
+-  Currently working for Canada's Official Crypto Brokerage. (Newton) #GrappaGoo
 
 
 
