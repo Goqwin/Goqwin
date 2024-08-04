@@ -2,11 +2,11 @@
 # Godwin Mercado
 ### Software Engineer Intern @Newton | Fullstack Developer  
 
-Hello World! I'm Godwin Mercado, a Software Engineer/Developer enthusiast with a passion for building innovative and efficient applications. I am constantly expanding my skills and knowledge in System Designs and Programming languages, and I am excited to share my journey with you through my project portfolio.
+**Yahello!** I'm Godwin Mercado, a Software Engineer/Developer enthusiast with a passion for building innovative and efficient applications. I am constantly expanding my skills and knowledge in System Designs and Programming languages, and I am excited to share my journey with you through my project portfolio.
 
 
 ### 🌱 Right now as a Developer..
--  Developed a Crypto Coin Tracker & Canada's first Crypto Mock Exchange with 5 other skilled individuals.
+-  Developed a Crypto Coin Tracker & Canada's <b>first</b> Crypto Mock Exchange with 5 other skilled individuals.
 -  Currently working for Canada's Official Crypto Brokerage. (Newton) #GrappaGoo
 
 ## IDEs
