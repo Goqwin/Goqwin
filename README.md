@@ -1,6 +1,6 @@
 ![github-header-image](https://github.com/user-attachments/assets/a3d464aa-d8cf-4c25-8474-4416540874c8)
 # Godwin 
-### Software Engineer Intern @Newton | Fullstack Developer  
+### (Former) Software Engineer Intern @Newton | Fullstack Developer  
 
 **Yahello!** I'm Godwin, a Software Engineer/Developer enthusiast with a passion for building innovative and efficient applications. I am constantly expanding my skills and knowledge in System Designs and Programming languages, and I am excited to share my journey with you through my project portfolio.
 
@@ -8,6 +8,10 @@
 ### 🌱 Right now as a Developer..
 -  Developed a Crypto Coin Tracker & Canada's <b>first</b> Crypto Mock Exchange with 5 other skilled individuals.
 -  Currently working for Canada's Official Crypto Brokerage. (Newton) #GrappaGoo
+
+### Education
+- Schulich School of Engineering (2025-2029)
+- Software Development Diploma at SAIT (2022-2024)
 
 ## IDEs
 ![Arduino_IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
